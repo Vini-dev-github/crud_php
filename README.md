@@ -34,8 +34,3 @@ Consolidar conhecimentos práticos em desenvolvimento web com PHP e MySQL, aplic
 - **Bootstrap 5**
 - **HTML5 / CSS3**
 - **XAMPP** (para ambiente local)
-
----
-
-## 🧩 Estrutura de Arquivos
-
